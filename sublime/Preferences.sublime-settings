@@ -1,8 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+	"color_scheme": "Packages/User/Dawn (Flake8Lint).tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"open_files_in_new_window": false
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80,
+		120
+	]
 }

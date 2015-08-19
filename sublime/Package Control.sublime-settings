@@ -1,0 +1,11 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"FuzzyFilePath",
+		"Package Control",
+		"Python Flake8 Lint"
+	]
+}
