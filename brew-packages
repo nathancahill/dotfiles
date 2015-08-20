@@ -1,5 +1,10 @@
+caskroom/cask/brew-cask
+ffmpeg
+gdal
 git
 nginx
 node
+postgis
 postgresql
 python
+redis
