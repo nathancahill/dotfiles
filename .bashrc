@@ -9,6 +9,7 @@ function cd {
 }
 
 alias venv='virtualenv venv; source venv/bin/activate'
+alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 
 function parse_git_branch {
    git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
