@@ -3,8 +3,11 @@ coreutils
 ffmpeg
 findutils
 git
+go
+mercurial
 nginx
 node
 postgis
 python
+rabbitmq
 redis
