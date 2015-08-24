@@ -1,10 +1,10 @@
 caskroom/cask/brew-cask
+coreutils
 ffmpeg
-gdal
+findutils
 git
 nginx
 node
 postgis
-postgresql
 python
 redis
