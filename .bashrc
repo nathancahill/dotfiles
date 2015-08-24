@@ -17,4 +17,5 @@ function parse_git_branch {
 
 export PS1="\$(parse_git_branch)\w \\$ "
 
+PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 
