@@ -1,12 +1,15 @@
 ln -s .bash_profile ~/.bash_profile
 ln -s .bashrc ~/.bashrc
 ln -s .gitconfig ~/.gitconfig
+ln -s .duti ~/.duti
 ln -s .git-completion.bash ~/.git-completion.bash
 ln -s .node-completion.bash ~/.node-completion.bash
 
 cat brew-packages | xargs brew install
 cat cask-packages | xargs brew cask install
 cat nmp-packages | xargs npm install -g
+
+duti ~/.duti
 
 find `pwd`/sublime/*.sublime-settings | xargs -I {} ln -s {} ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 find `pwd`/services/*.workflow | xargs -I {} ln -s {} ~/Library/Services
