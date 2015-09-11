@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+t"], "command": "new_file" },
+    { "keys": ["super+down"], "command": "move", "args": {"by": "lines", "forward": true, "amount": 1.0} },
+    { "keys": ["super+up"], "command": "move", "args": {"by": "lines", "forward": false, "amount": 1.0} }
+]
