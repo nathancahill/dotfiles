@@ -26,10 +26,8 @@ Install Homebrew, then run `./install.sh`
 
 - Computer Sleep: Never
 - Display Sleep: 15 min
-
 - Put hard disks to sleep when possible: Off
 - Slightly dim the display while on battery power: Off
-
 - Battery Menu > Show Percentage
 
 #### Keyboard
@@ -73,9 +71,7 @@ Install Homebrew, then run `./install.sh`
 #### Profiles
 
 - General > Shortcut Key: O
-
 - Window > Transparency: 30%
 - Window > Blur: 0%
 - Window > Style: Top of Screen
-
 - Terminal > Unlimited Scrollback: On
