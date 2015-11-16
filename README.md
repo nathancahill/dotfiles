@@ -50,3 +50,32 @@ Other gestures: Off
 #### Network
 
 DNS > Use [Namebench](https://code.google.com/p/namebench/) for fastest DNS
+
+## BetterTouchTool
+
+#### Trackpad
+
+4 Finger Swipe Left: Maximize Window Left
+4 Finger Swipe Right: Maximize Window Right
+3 Finger Swipe Down: ⌘⌃O
+
+#### Other
+
+Leftclick Green Window Button: Maximize Window
+
+## iTerm2
+
+#### Keys
+
+Hotkey > Show/hide iTerm2 with a system-wide hotkey: On, Hotkey: ⌘⌃O
+Hotkey > Hotkey toggles a dedicated window with profile: On
+
+#### Profiles
+
+General > Shortcut Key: O
+
+Window > Transparency: 30%
+Window > Blur: 0%
+Window > Style: Top of Screen
+
+Terminal > Unlimited Scrollback: On
