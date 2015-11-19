@@ -45,6 +45,10 @@ Install Homebrew, then run `./install.sh`
 - Swipe between pages: Swipe with three fingers
 - Other gestures: Off
 
+#### Accessibility
+
+- Display > Shake mouse pointer to locate: Off
+
 #### Network
 
 - DNS > Use [Namebench](https://code.google.com/p/namebench/) for fastest DNS
